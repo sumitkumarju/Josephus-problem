@@ -21,4 +21,4 @@ The only node is the luckiest one.
 
 
 
-Run the lucky_guy.cpp with a c++ compiler to see the results.
+Run the luckyguy.cpp with a c++ compiler to see the results.
